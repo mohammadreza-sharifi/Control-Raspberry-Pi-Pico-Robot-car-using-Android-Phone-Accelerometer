@@ -6,7 +6,7 @@
 
 ## The parts used in this robot are:
 - Raspberry Pi Pico Microcontroller
-- HC-5 Bluetooth Module
+- HC-05 Bluetooth Module
 - L298 Driver Motor
 - Robot Chassis
 - Gearbox DC Motor*4
